@@ -21,16 +21,3 @@ button:hover {
 	color: white;
 }
 
-.answers div {
-	margin: 0 auto;
-}
-
-img {
-	height: 200px;
-	width: auto;
-}
-
-h1, h2, h3, .question {
-	text-align: center;
-}
-
