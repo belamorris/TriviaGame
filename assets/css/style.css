@@ -1,0 +1,36 @@
+body {
+	background: url(../../assets/images/download.jpeg) no-repeat;
+	background-size: cover;
+}
+
+.container {
+	border: solid 4px white;
+	text-align: center;
+	margin-top: 130px;
+	font-family: 'Staatliches', cursive;
+	color: white;
+}
+
+ 
+ button.answerchoice {
+	display: none;
+} 
+
+button:hover {
+	background-color: blue;
+	color: white;
+}
+
+.answers div {
+	margin: 0 auto;
+}
+
+img {
+	height: 200px;
+	width: auto;
+}
+
+h1, h2, h3, .question {
+	text-align: center;
+}
+
